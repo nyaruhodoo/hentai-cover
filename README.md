@@ -19,8 +19,8 @@
  1. 确保你可以打开[nyaa](https://sukebei.nyaa.si/)  
  打不开的话自行想办法....比如准备一个又粗又大的梯子  
  
- 2. 确保脚本正常运行在图床页面
+ 2. 确保脚本正常运行在图床页面<br/>
  ![img](https://files.catbox.moe/3j9lkw.png)  
  
- 3.如图所示
+ 3.如图所示<br/>
  ![img](https://files.catbox.moe/aq31xc.gif)
