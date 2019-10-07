@@ -14,7 +14,6 @@
  [greasyfork](https://sleazyfork.org/zh-CN/scripts/374410-hentai-cover%E4%BB%A5%E5%9B%BE%E6%90%9C%E7%A7%8D)
  
 # 如何使用
-0.确保你有一个不老套的浏览器  
 1. 确保你可以打开[nyaa](https://sukebei.nyaa.si/)  
  打不开的话自行想办法....比如准备一个又粗又大的梯子  
  2. 确保脚本正常运行在图床页面<br/>
