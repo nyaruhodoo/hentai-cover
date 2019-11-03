@@ -12,6 +12,7 @@
   
 # 如何安装
  [greasyfork](https://sleazyfork.org/zh-CN/scripts/374410-hentai-cover%E4%BB%A5%E5%9B%BE%E6%90%9C%E7%A7%8D)
+ [greasyfork(不用登陆)](https://sleazyfork.org/da/scripts/374410-hentai-cover%E4%BB%A5%E5%9B%BE%E6%90%9C%E7%A7%8D/code?locale_override=1)
  
 # 如何使用
 1. 确保你可以打开[nyaa](https://sukebei.nyaa.si/)  
