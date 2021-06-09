@@ -6,12 +6,12 @@
     查看图片->决定是否下载
   
  # 如何实现
-  目前受官方信任的发布者都会使用它[图床](https://hentai-covers.site/)来发布图片
-  只需在图床内加入下载功能即可,不需要经过任何跳转
+  目前受官方信任的发布者都会使用[它](https://hentai-covers.site/)来作为图床  
+  只需在图床内加入搜索即可
 
   
 # 如何安装
- [greasyfork](https://sleazyfork.org/zh-CN/scripts/374410-hentai-cover%E4%BB%A5%E5%9B%BE%E6%90%9C%E7%A7%8D)
+ [greasyfork](https://sleazyfork.org/zh-CN/scripts/374410-hentai-cover%E4%BB%A5%E5%9B%BE%E6%90%9C%E7%A7%8D)  
  [greasyfork(不用登陆)](https://sleazyfork.org/da/scripts/374410-hentai-cover%E4%BB%A5%E5%9B%BE%E6%90%9C%E7%A7%8D/code?locale_override=1)
  
 # 如何使用
