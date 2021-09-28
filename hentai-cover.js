@@ -8,7 +8,7 @@
 // @run-at       document-start
 // @match        https://hentai-covers.site/*
 // @grant        GM_xmlhttpRequest
-// @grant	     GM_addStyle
+// @grant	       GM_addStyle
 // ==/UserScript==
  
 //考虑到不是每个用户都有屏蔽广告的扩展帮你们解决下广告和多余元素
@@ -20,6 +20,7 @@ GM_addStyle(
   `
 )
  
+// 因为需要第一时间解决广告...所以额外监听事件
 document.addEventListener('DOMContentLoaded', () => {
   const tip = '请求中请稍后...'
   const errorTip = '请求出错,稍后重试'
